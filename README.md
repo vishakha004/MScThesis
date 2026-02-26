@@ -13,9 +13,8 @@ This paper will explore how climate shocks affect firm-level productivity in Vie
 
 This yields four sub-questions:
 
-\begin{enumerate}
-    \item \textbf{Magnitude of Impact:} What is the effect of floods on firm productivity (TFP)?
-    \item \textbf{Skill Heterogeneity:} Do firms with a higher share of skilled workers experience smaller productivity losses?
-    \item \textbf{Dynamic Recovery:} Do firms with higher proportions of skilled workforce recover productivity faster after a flood? 
-    \item \textbf{Technology Change:} Do floods alter firms’ production technology (capital and labour elasticities)?
-\end{enumerate}
+1. Magnitude of Impact: What is the effect of floods on firm productivity (TFP)?
+2. Skill Heterogeneity: Do firms with a higher share of skilled workers experience smaller productivity losses?
+3. Dynamic Recovery: Do firms with higher proportions of skilled workforce recover productivity faster after a flood? 
+4. Technology Change: Do floods alter firms’ production technology (capital and labour elasticities)?
+
